@@ -1,0 +1,14 @@
+SWEN-250 Activity Reflection
+
+Name:Sarah Strickman
+
+================================================================
+Estimated Time	1HH 30MM
+Plan: Make each function for the linked list, make unit tests after 
+	making each test
+
+
+Complete
+Actual Time	HH MM
+Observations:
+	I dont know what's going on!! How do you write tests I hate my life

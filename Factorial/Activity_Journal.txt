@@ -1,0 +1,20 @@
+SWEN-250 Activity Reflection
+Ruby - Factorial with Unit Testing
+
+Name:Sarah Strickman
+
+================================================================
+Start
+Estimated Time	50HH 00MM
+Plan:
+- read assignment 
+- follow tutorial
+
+Complete
+Actual Time	0HH 20MM
+Observations:
+- i hate my life
+
+
+================================================================
+

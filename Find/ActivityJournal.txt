@@ -1,0 +1,19 @@
+SWEN-250 Activity Reflection
+
+Name:Sarah Strickman
+
+================================================================
+Start 
+Estimated Time	4HH 59MM
+Plan:
+- read the doctrings for the functions
+- implement that
+
+Complete
+Actual Time	1HH 15MM
+Observations:
+- Pointers are really cool
+- I also need to learn to read directions better, due to my 
+	trouble understanding the instructions of find_substr
+
+================================================================

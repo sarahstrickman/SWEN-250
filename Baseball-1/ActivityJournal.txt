@@ -1,0 +1,75 @@
+SWEN-250 Activity Reflection
+Database -- SQL Practice - Baseball Players
+
+Name: Sarah Strickman
+
+================================================================
+Query 1: Find all the information on all the catchers (position 2) in the database
+Estimated Time	3HH 30MM
+Plan:
+(Order of implementation, testing approach, etc.)
+- do some research
+- open class slides
+- write code
+- test
+- run the thingy
+
+Complete
+Actual Time	0HH 10MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+- wrote it
+
+================================================================
+Query 2: Find the name and age of all pitchers (position 1) on the Rays
+Estimated Time	0HH 5MM
+Plan:
+(Order of implementation, testing approach, etc.)
+write code
+
+Complete
+Actual Time	0HH 5MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+wrote code
+
+================================================================
+Query 3: Find the name, number, and team of all outfielders (positions 7 through 9) who are 25 years old or younger
+Estimated Time	0HH 5MM
+Plan:
+(Order of implementation, testing approach, etc.)
+write code
+
+Complete
+Actual Time	0HH 5MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+wrote code
+
+================================================================
+Query 4: Find the name and number of all infielders (positions 3 through 6) on the Red Sox
+Estimated Time	0HH 5MM
+Plan:
+(Order of implementation, testing approach, etc.)
+write code
+
+Complete
+Actual Time	0HH 5MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+wrote code
+
+================================================================
+Query 5: Find the name, number, and team of all pitchers who are over 30 years old
+Estimated Time	0HH 5MM
+Plan:
+(Order of implementation, testing approach, etc.)
+write code
+
+Complete
+Actual Time	0HH 5MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+wrote code
+
+================================================================

@@ -1,0 +1,26 @@
+SWEN-250 Activity Reflection
+
+Name:Sarah Strickman sxs4599
+
+================================================================
+Start
+Estimated Time	1HH 30MM
+Plan:
+(Order of implementation, testing approach, etc.)
+- start from get_field, and write helper functions
+- get field reads from stdin
+	- it adds to the field based on the input
+- get line makes the row of inputs (array)
+	- calls get field to fill these inputs
+
+
+
+Complete
+Actual Time	3HH 15MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+-I didn't know that the setup text was already in csv.h
+	(this caused problems)
+- There was not supposed to be a space between %s and \n, and this too, 
+	caused me some issues
+================================================================

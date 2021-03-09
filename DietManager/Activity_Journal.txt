@@ -1,0 +1,40 @@
+SWEN-250 Activity Journal
+Ruby – Diet Manager
+
+Name: Sarah Strickman
+
+NOTE: Create additional Part 1 & 2 log entries 
+based on the order of implementation.
+
+================================================================
+Part 1 – Product & Unit Test Classes – Start
+Estimated Time	60HH 2MM
+Plan for this level: 
+- read some files
+- implement things
+- write some other things
+
+Part 1 – Product & Unit Test Classes – Completed
+Actual Time	350HH 00MM
+Lessons learned, problems encountered, obstacles overcome, etc.
+- this legitimately was so bad
+
+================================================================
+Part 2 – DietManager Levels – Start
+Estimated Time	400HH  60MM
+Plan for this level:
+- die
+
+Part 2 – DietManager Levels – Completed
+Actual Time	8HH 00MM
+Lessons learned, problems encountered, obstacles overcome, etc.
+- its 4:30 in the fucking morning i legitimately want to kill myself
+
+
+================================================================
+Overall Summary
+Estimated Total Time	20HH 00MM
+Actual Total Time	12 * 7 HH 30MM
+Project reflection:
+- This project wasn't too bad, as much as I complain.
+- Ruby has a lot of methods

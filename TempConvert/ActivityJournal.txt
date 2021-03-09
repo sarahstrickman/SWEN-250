@@ -1,0 +1,38 @@
+
+
+
+SWEN-250 Activity Reflection
+
+Name: Sarah Strickman
+
+===========================================================
+Start Part 1
+Estimated Time 1H 00M
+Plan:
+Write entire program in python because it is a language I am familiar with
+	(2 functions: one that converts fahrenheit to celcius, one that ddoes the opposite)
+Port it to C
+
+Complete
+Actual Time  1H 30M
+Observations:
+C is very different than Python, in that everything has to be written inside 
+	of a function. Integers may also be unsigned by default, and this must be
+	taken into consideration.  This is a major problem that I consistntly 
+	ran into during Activity One. It is also important to realize the type
+	of data you are using, and the different things that each form of data is 	
+	able to do (for example, 9/5 would return something different than 9.0/5.0).
+	
+
+==========================================================
+Start Part 2
+Estimated Time  1H  0M
+Plan:
+Copy chart1.c to chart2.c, change ints to doubles, and print the doubles
+
+Complete
+Actual Time  0H  20M
+Observations:
+This was a lot simpler than I thought it would be. using %.1f in the 
+	printf statement allows you to print only one character after the 
+	defcimal point.  The main function also must return int.

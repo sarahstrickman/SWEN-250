@@ -1,0 +1,47 @@
+SWEN 250 Activity Journal
+
+Sarah Strickman
+
+LongestLine.c
+
+================================================
+-Part 1-
+Start:
+Estimated Time:  0H  30M
+Plan(Order of implemetation, testing approach, etc):
+- Get the standard input
+- Read each character in the string from stdin
+- if its a newline: return the length 
+- if its a EOF: return -1
+- if its a character: increase the length 
+
+
+Complete:
+Actual Time:  3H  45M
+Observations(Lessons learned, problems encountered, obstacles overcome, etc):
+- Single quotes are used when referring to '\n' and '\0'
+- One major problem that I encountered was deciding how to read stdin,
+	and much of the syntax of c is still very difficult to get used to
+- I also found it difficult to understand how to implement the lab, and
+	what exactly the lab was asking for
+
+
+================================================
+-Part 2-
+
+Start:
+Estimated time:  1H  00M
+Plan(Order of implementation, testing approach, etc):
+- get the length of the line that is being typed
+- if it is longer than the longest line, replace the longest line with the line that was inputted
+- the length of the longest line is now the length of the line that was inputted
+
+
+Complete:
+Actual time:  1H  30M
+Observations(Lessons learned, problems encountered, obstacles overcome, etc):
+- I learned that I don't actually underdstand anything and that I am kind of dumb
+- By this, I mean that I did not fully understand the difference between ^C and  ^D.
+- I also learned that running functions multiple times to get information (namely
+	with readline) is not always an optimal solution.
+

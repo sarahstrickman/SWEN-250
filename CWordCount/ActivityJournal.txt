@@ -1,0 +1,25 @@
+
+
+Name: Sarah Strickman
+
+=============================================
+Start CWordCount
+Estimated Time 1H 0M
+Plan:
+	word = each instance of whitespace following a character
+	line = each instance of '\n'
+	character = each getchar()
+
+	while getchar() is not EOF,
+	record what getchar is, and see if it fits the constraints
+		above
+	increase the variables accrdingly
+
+Complete
+Actual Time  0H 45M
+Observations:
+	unlike in the other (singular) language that I learned,
+	you do not have to open the file with fopen.  You can 
+	simply pass it through without specifying it in the program.
+	I also learned that it is very inconvenient to use for loops
+	when using getchar.

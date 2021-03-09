@@ -1,0 +1,49 @@
+SWEN-250 Activity Reflection
+Database Exercise -- Musicals
+
+Name:Sarah Strickman
+
+================================================================
+Part 1
+Estimated Time	2HH 00MM
+Plan:
+(Order of implementation, testing approach, etc.)
+- Run sqlite3 with musicals.sqlite
+- run commands
+- record them in the document
+
+Complete
+Actual Time	0HH 20MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+- This is dumb
+
+================================================================
+Part 2
+Estimated Time	1HH 00MM
+Plan:
+(Order of implementation, testing approach, etc.)
+- Search on w3schools
+- type shit in to sqlite3
+
+Complete
+Actual Time	0HH 20MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+- w3schools is cool
+
+================================================================
+Part 3
+Estimated Time	1HH 00MM
+Plan:
+(Order of implementation, testing approach, etc.)
+- read activity
+- do shit
+
+Complete
+Actual Time	0HH 30MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+- I don't want to do anything ever
+
+================================================================

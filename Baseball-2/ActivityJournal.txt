@@ -1,0 +1,35 @@
+SWEN-250 Activity Reflection
+Database -- SQL Practice - Relational Joins
+
+Name: Sarah Strickman
+
+================================================================
+Queries 1 through 10:
+Estimated Time	2HH 20MM
+Plan:
+(Order of implementation, testing approach, etc.)
+read activity
+do functions
+test them
+
+Complete
+Actual Time	1HH 30MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+- join can get confusing
+- outer and right join? 
+
+================================================================
+Queries 11 through 15 (extra credit if done):
+Estimated Time	1HH 30MM
+Plan:
+(Order of implementation, testing approach, etc.)
+- spam w3schools
+
+Complete
+Actual Time	0HH 30MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+- wowie sql is cool
+
+================================================================

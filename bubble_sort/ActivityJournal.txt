@@ -1,0 +1,25 @@
+SWEN-250 Activity Reflection
+
+Name:Sarah Strickman
+
+================================================================
+Start
+Estimated Time	2HH 00MM
+Plan:
+(Order of implementation, testing approach, etc.)
+- write the swap function, then use it as a helper function to the
+	sort_two_positions.  Then use this function as a helper 
+	for the higher one
+
+Complete
+Actual Time	1HH 30MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+- There is more than one way to write a Makefile, (I still don't fully
+	understand how they work)
+- It's important to include ./program within the make file, so that 
+	the program runs
+- This took me much longer than it should have taken me, because I'm stupid
+
+
+================================================================

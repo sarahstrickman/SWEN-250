@@ -1,0 +1,129 @@
+SWEN-250 Document Analysis Journal
+
+Implement these functions in the order below.
+
+Your name:Sarah Strickman
+
+================================================================
+process_word
+Start
+Estimated Time	0HH 30MM
+Plan:
+- read the function
+- test it
+- debug
+
+Complete
+Actual Time	0HH 5MM
+Observations:
+- I already wrote the thingy to insert a word in the srted place
+- I had problems inserting the functions from linked_list_functions.c
+	into analysis.c because I can't spell
+
+================================================================
+get_first_word
+Start
+Estimated Time	0HH 30MM
+Plan:
+- i know you don't read these
+
+Complete
+Actual Time	0HH 10MM
+Observations:
+- a lot simpler than i thought
+
+================================================================
+get_next_word
+Start
+Estimated Time	0HH 30MM
+Plan:
+- Write stuff
+- run tests
+- debug
+
+Complete
+Actual Time	0HH 30MM
+Observations:
+- EVERYTHING IS STUPID
+
+================================================================
+get_last_word
+Start
+Estimated Time	0HH 2MM
+Plan:
+- copy and paste from the last one and change ont word
+
+Complete
+Actual Time	0HH 2MM
+Observations:
+- fock
+
+================================================================
+get_prev_word
+Start
+Estimated Time	0HH 2MM
+Plan:
+- copy and paste and change 2 words
+
+Complete
+Actual Time	0HH 2MM
+Observations:
+- wowzers
+
+================================================================
+read_file through test 56
+Start
+Estimated Time	1HH 00MM
+Plan:
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	24HH 00MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+- I actually did this last whoopsie daisy
+
+================================================================
+read_file MLK_dream_excerpt only
+Start
+Estimated Time	0HH 0MM
+Plan:
+(Order of implementation, testing approach, etc.)
+- its the same thing
+
+Complete
+Actual Time	0HH 0MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+- welp
+
+================================================================
+write_unique_word_list_to_csv_file
+Start
+Estimated Time	0HH 0MM
+Plan:
+(Order of implementation, testing approach, etc.)
+- is this also the same test
+
+Complete
+Actual Time	3HH 00MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+- i did this before read_file whoopsie
+
+================================================================
+Add four unit tests to the unit_tests_student.c file
+Start
+Estimated Time	2HH 30MM
+Plan:
+(Order of implementation, testing approach, etc.)
+- write tests
+test things
+
+Complete
+Actual Time	1HH 30MM
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+- turns out, my alphabetize() doesn't work
+
+================================================================
